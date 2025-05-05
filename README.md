@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://pointschool.ru/" target="_blank" rel="noopener noreferrer"><img style="width:200px" src="media/img/logo.png"></a>
+            <a href="https://pointschool.ru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="media/img/logo.png"></a>
         </td>
         <td>
             ПОИНТ. Первый онлайн институт тестировщиков.
