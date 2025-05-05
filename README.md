@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Екатерина  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1> 
 
 <h3 align="center">Мой стек технологий</h3>
 
